@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: MainCode.Main
+Class-Path: E:\Sources\Restaurant System\src\MainCode\Main.java
+
